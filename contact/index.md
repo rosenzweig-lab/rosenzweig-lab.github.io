@@ -1,39 +1,26 @@
 ---
-title: Contact the Fraser Lab
+title: Contact the Rosenzweig Lab
 layout: default
 group: contact
 ---
 
-# Contact the Fraser Lab
+# Contact the Rosenzweig Lab
 
 
 <div class="row">
-
+  
 <div class="col-md-4">
 
-  <h4>Lab Area </h4>
-  tel: 415 502 3488
+  <h4>Derek Rosenzweig</h4>
+  Assistant Professor  <br>
+  Division of Orthopaedics  <br>
+  Department of Surgery  <br>
+  Research Institute of the McGill University Health Centres <br>
+  
+  email: derek.rosenzweig (at) mcgill.ca <br>
+  tel: 
 
-</div>
 
-<div class="col-md-4">
-
-  <h4>James Fraser</h4>
-  Associate Professor  <br>
-  Department of Bioengineering and Therapeutic Sciences  <br>
-  California Institute of Quantitative Biosciences (QB3)  <br>
-  email: jfraser (at) fraserlab.com <br>
-  tel: 415 502 1863
-
-</div>
-
-<div class="col-md-4">
-
-  <h4> Hilary Smith Mahon</h4>
-  Administrative Assistant to Dr. James Fraser and  others<br>
-  Department of Bioengineering and Therapeutic Sciences  <br>
-  Email:  Hilary.SmithMahon (at) ucsf.edu  <br>
-  Phone: 415 476-1947   <br>
 
 </div>
 
@@ -47,9 +34,9 @@ group: contact
 
 <h4>Office Address</h4>
 
-Department of Bioengineering and Therapeutic Sciences Box #2240<br>
-600 16th Street, Genentech Hall Room S472E<br>
-San Francisco, CA 94143
+C10.148 <br>
+1650 Cedar Avenue <br>
+Montreal, QC, H3G 1A4
 
 
 </div>
@@ -58,10 +45,9 @@ San Francisco, CA 94143
 
 <h4>Lab Address</h4>
 
-Department of Bioengineering and Therapeutic Sciences Box #2240<br>
-600 16th Street, Genentech Hall Room S476<br>
-San Francisco, CA 94143
-
+C10.166 <br>
+1650 Cedar Avenue <br>
+Montreal, QC, H3G 1A4
 </div>
 
 </div>
