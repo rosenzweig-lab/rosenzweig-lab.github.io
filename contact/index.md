@@ -8,7 +8,13 @@ group: contact
 
 
 <div class="row">
-  
+<div class="col-md-4">
+
+<h4>Lab Area </h4>
+tel: 514
+
+</div>
+
 <div class="col-md-4">
 
   <h4>Derek Rosenzweig</h4>
@@ -20,7 +26,15 @@ group: contact
   email: derek.rosenzweig (at) mcgill.ca <br>
   tel: 
 
+</div>
 
+<div class="col-md-4">
+
+ <h4> Hilary Smith Mahon</h4>
+ Administrative Assistant to Dr. James Fraser and  others<br>
+ Department of Bioengineering and Therapeutic Sciences  <br>
+ Email:  Hilary.SmithMahon (at) ucsf.edu  <br>
+  Phone: 415 476-1947   <br>
 
 </div>
 
